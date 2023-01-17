@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sohail5560/ecompra.git/static/css/main.688c5cb6.css",
+    "main.js": "/sohail5560/ecompra.git/static/js/main.ac9ac777.js",
+    "index.html": "/sohail5560/ecompra.git/index.html",
+    "main.688c5cb6.css.map": "/sohail5560/ecompra.git/static/css/main.688c5cb6.css.map",
+    "main.ac9ac777.js.map": "/sohail5560/ecompra.git/static/js/main.ac9ac777.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.688c5cb6.css",
+    "static/js/main.ac9ac777.js"
+  ]
+}
